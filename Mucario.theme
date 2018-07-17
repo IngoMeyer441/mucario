@@ -1,0 +1,9 @@
+[Scheme]
+Name=Mucario
+ColorCursor=#FFFFFF
+ColorForeground=#F8F8F2
+ColorBackground=#2B3E50
+TabActivityColor=#FFB460
+ColorPalette=#4F4F4F;#FF6C60;#B5FF60;#FFFF60;#60CAFF;#FFB460;#60F7FF;#EEEEEE;#808080;#FF9087;#C7FF87;#FFFF87;#87D7FF;#FFC687;#87F9FF;#FFFFFF
+ColorBold=#F8F8F2
+ColorBoldUseDefault=FALSE
