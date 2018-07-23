@@ -20,3 +20,8 @@ A dark terminal theme with bright colors inspired by [Lucario](https://github.co
 2. Copy the file to `~/.local/share/xfce4/terminal/colorschemes/`.
 3. Goto to *Settings* -> *Colors* and select *Mucario*.
 
+## wsltty
+
+1. Open `%APPDATA\wsltty\config` with your favorite editor.
+2. Open [wsltty_config](https://raw.githubusercontent.com/IngoHeimbach/mucario/master/wsltty_config) and copy the file
+   contents to the previously opened config file. Remove duplicate config entries if any.
